@@ -18,27 +18,6 @@ else who has contributed to it over the years.
 
 For usage information, see the manual page:
 
-    man axel
-
-## How to help
-If you can code and are interested in improving Axel, please read the
-[CONTRIBUTING.md](CONTRIBUTING.md) file; if you're looking for ideas check our
-[open tickets](https://github.com/axel-download-accelerator/axel/issues/).
-
-Additionally, there is a
-[google group](https://groups.google.com/forum/#!forum/axel-accelerator-dev) to
-discuss and to coordinate development. You can also find other developers in the
-`#axel` channel on [Freenode](https://freenode.net/).
-
-The sustainability of the project mainly depends on developers dedicating time,
-so if you want to contribute but can't code, there's also the option to fund
-paid development time through:
-
-- *Ismael Luceno*
-  + [Github Sponsors](https://github.com/sponsors/ismaell)
-  + [![Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/ismaell)
-  + [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/ismael/donate)
-
 ## Installing from binaries
 Your operating system may contain a precompiled version of Axel, and if so you
 should probably use it.  If the package is outdated please get in touch with the
