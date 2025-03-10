@@ -125,3 +125,7 @@ You can just run `make` as usual after these steps.
 ## License ##
 
 Axel is licensed under GPL-2+ with the OpenSSL exception.
+
+## Fork's purpose
+
+fix axel's 1024 character limit in path (including the downloaded file's name)
